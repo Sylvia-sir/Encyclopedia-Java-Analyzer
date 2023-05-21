@@ -4,6 +4,6 @@ Encyclopedia file is unthreaded & ThreadedEncyclopedia is threaded
 RMI (Remote Method Invocation) concept is that client can invocate servers methods,
 Encyclopedia file (unthreaded):
 we declared a java interface (WordAnalyzer) and implements it in server class (WordAnalyzerServer)
-
+and then connect server with our local host server &  
 
 
